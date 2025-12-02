@@ -1,8 +1,3 @@
-# 🧪 Project Ideas & Portfolio
-
-A collection of project ideas organized by difficulty level, with architecture recommendations and implementation roadmaps.
-
-## 📊 Project Categories
 # 🚀 AI/ML Project Showcases
 
 > Project templates, ideas, and implementation roadmaps for AI/ML projects.

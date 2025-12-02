@@ -1,6 +1,3 @@
-# 📚 AI/ML Glossary
-
-A comprehensive dictionary of AI and Machine Learning terminology.
 # 📖 AI/ML Glossary
 
 > Comprehensive A-Z terminology reference for Artificial Intelligence and Machine Learning.
