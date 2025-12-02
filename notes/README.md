@@ -15,7 +15,7 @@
 - [Computer Vision](#-computer-vision)
 - [Generative AI](#-generative-ai)
 - [Reinforcement Learning](#-reinforcement-learning)
-- [AI Ethics & Safety](#%EF%B8%8F-ai-ethics--safety)
+- [AI Ethics & Safety](#️-ai-ethics--safety)
 
 ---
 
