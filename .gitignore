@@ -32,7 +32,7 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Unit test / coverage
 htmlcov/
 .tox/
 .nox/
@@ -51,17 +51,17 @@ cover/
 *.mo
 *.pot
 
-# Django stuff
+# Django
 *.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
-# Flask stuff
+# Flask
 instance/
 .webassets-cache
 
-# Scrapy stuff
+# Scrapy
 .scrapy
 
 # Sphinx documentation
@@ -95,11 +95,11 @@ pdm.lock
 # PEP 582
 __pypackages__/
 
-# Celery stuff
+# Celery
 celerybeat-schedule
 celerybeat.pid
 
-# SageMath parsed files
+# SageMath
 *.sage.py
 
 # Environments
@@ -113,11 +113,11 @@ ENV/
 env.bak/
 venv.bak/
 
-# Spyder project settings
+# Spyder
 .spyderproject
 .spyproject
 
-# Rope project settings
+# Rope
 .ropeproject
 
 # mkdocs documentation
