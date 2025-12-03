@@ -12,7 +12,7 @@
 
 ## 👋 About
 
-Welcome to my personal AI/ML knowledge repository! This is where I document my journey through the fascinating world of Artificial Intelligence—from fundamental machine learning concepts to cutting-edge generative AI.
+Welcome to my personal AI/ML knowledge repository! This is where I document my journey through the fascinating world of Artificial Intelligence, from fundamental machine learning concepts to cutting-edge generative AI.
 
 🌐 **Visit my website: [jgcks.com](https://www.jgcks.com)** for more projects and insights!
 
